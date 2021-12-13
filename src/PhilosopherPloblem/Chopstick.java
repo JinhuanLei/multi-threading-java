@@ -1,4 +1,4 @@
-package PhilospherPloblem;
+package PhilosopherPloblem;
 
 public class Chopstick {
 
