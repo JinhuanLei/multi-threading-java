@@ -1,3 +1,5 @@
+package Demos;
+
 public class CyclicBarrierDemo {
 
   public static void main(String[] args) {
@@ -5,7 +7,7 @@ public class CyclicBarrierDemo {
   }
 }
 
-class BarrierWorker implements Runnable{
+class BarrierWorker implements Runnable {
 
   @Override
   public void run() {
